@@ -1,8 +1,8 @@
-<h1 align="center">Hi 👋, I'm SOURITA RAY</h1>
+<h1 align="center">Hi <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/wave.gif" width="40px">, I'm SOURITA RAY</h1>
 <h3 align="center">Web developer from India</h3> <br>
 
-<img align="right" alt="Coding" width="250" src="http://static.skaip.org/img/emoticons/180x180/f6fcff/womandeveloper.gif">
-
+<!-- <img align="right" alt="Coding" width="250" src="http://static.skaip.org/img/emoticons/180x180/f6fcff/womandeveloper.gif"> -->
+<img align="right" alt="Coding" width="400" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif">
 <br>
 
 - 🔭 I’m currently developing my skills on **Frontend Development**
