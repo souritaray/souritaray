@@ -3,7 +3,7 @@
 
 <img align="right" alt="Coding" width="250" src="http://static.skaip.org/img/emoticons/180x180/f6fcff/womandeveloper.gif">
 
-
+<br>
 
 - 🔭 I’m currently developing my skills on **Frontend Development**
 
